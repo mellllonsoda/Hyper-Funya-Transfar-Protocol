@@ -1,0 +1,104 @@
+Network Working Group                                       mellllonsoda
+Request for Comments: XXXX                                 13 August 2025
+Category: Informational
+
+Hyper Text Funya Protocol (HFTP/1.0)
+
+Status of this Memo
+
+   This memo is a humorous work and is not an Internet standard.
+   Distribution of this memo is unlimited.
+
+Copyright Notice
+
+   Copyright (C) The Internet Society (2025). All Rights Reserved.
+
+Abstract
+
+   This document describes HFTP, a protocol for responding to HTTP-like
+   requests with "ふにゃふにゃ" messages.
+
+1. Rationale and Scope
+
+   In a world increasingly dominated by the internet, the need for
+   ubiquitous soft responses has emerged. HFTP satisfies this need by
+   ensuring that every request is met with a uniform, warm, and
+   comforting "ふにゃふにゃ" response. No matter the method or URI,
+   the server guarantees that clients will always receive a response
+   that is both predictable and delightfully meaningless.
+
+2. HFTP Protocol
+
+   HFTP is built on top of HTTP, with the simplification that the
+   response to any request, regardless of method, is always
+   "ふにゃふにゃ".
+
+2.1 HFTP Methods
+
+   All standard HTTP methods may be used with HFTP servers. The
+   response will be identical:
+
+      POST, GET, PUT, DELETE, HEAD, OPTIONS, TRACE, CONNECT
+
+   Response to all methods:
+
+      200 OK
+      Content-Type: text/plain
+      ふにゃふにゃ
+
+2.2 Header Fields
+
+   No special headers are required for HFTP. Any headers sent by the
+   client are ignored. Servers may include a generic HFTP header:
+
+
+        Funya-Protocol: HFTP/1.0
+
+
+3. The "funya" URI scheme
+
+   All HFTP servers should be referred to with the "funya:" URI
+   scheme.
+
+      funya-url  =  funya-scheme ":" \["//" host ] \["/" resource]
+      funya-scheme = "funya"
+
+4. Operational Considerations
+
+      HFTP servers must respond promptly to all requests. The content
+      will always be static and unvarying: "ふにゃふにゃ". No other
+      content should be generated.
+
+5. Security Considerations
+
+   HFTP provides no authentication, authorization, or encryption.
+   All requests are treated equally. The protocol is intended for
+   amusement and light-hearted experimentation only.
+
+6. Acknowledgements
+
+   Thanks to the internet community for inspiring the creation of a
+   protocol dedicated to universal silliness and uniform responses.
+
+7. References
+
+   [RFC2068] Fielding, R., et al., "Hypertext Transfer Protocol -- HTTP/1.1", RFC 2068, January 1997.
+
+8. Author's Address
+
+   mellllonsoda
+   EMail: mellllonsoda0419@gmail.com
+
+   spring
+   EMail: habanero.iori@gmail.com
+
+9. Full Copyright Statement
+
+   Copyright (C) The Internet Society (2025). All Rights Reserved.
+
+   This document and translations of it may be copied and furnished to
+   others, and derivative works that comment on or otherwise explain it
+   or assist in its implementation may be prepared, copied, published
+   and distributed, in whole or in part, without restriction of any
+   kind, provided that the above copyright notice and this paragraph are
+   included on all such copies and derivative works.
