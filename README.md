@@ -31,7 +31,7 @@ Start the server (example using Python's built-in HTTP server):
 python3 -m http.server 8080
 ```
 
-Visit `http://localhost:8080/funya` to see the response.
+Visit `http://localhost:8080` to see the response.
 
 ## Contributing
 
