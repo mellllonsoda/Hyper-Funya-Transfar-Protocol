@@ -47,6 +47,6 @@ This project is a derivative work inspired by RFC 2324 (Hyper Text Coffee Pot Co
 
 ## Author
 
-\mellllonsoda
-\mellllonsoda0419@gmail.com
-\https://mellllonsoda.github.io/mellllonsoda-s-page/
+* mellllonsoda
+* mellllonsoda0419@gmail.com
+* https://mellllonsoda.github.io/mellllonsoda-s-page/
