@@ -2,7 +2,7 @@ Network Working Group                                       mellllonsoda
 Request for Comments: XXXX                                 13 August 2025
 Category: Informational
 
-Hyper Text Funya Protocol (HFTP/1.0)
+Hyper Funya Transfer Protocol (HFTP/1.0)
 
 Status of this Memo
 
