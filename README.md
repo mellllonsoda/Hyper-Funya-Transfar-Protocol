@@ -1,4 +1,4 @@
-# Hyper Text Funya Protocol (HFTP)
+# Hyper Funya Transfer Protocol (HFTP)
 
 HFTP is a playful, RFC-style protocol that responds to HTTP-like requests with "ふにゃふにゃ" messages. This repository contains both the protocol specification in RFC format and a reference implementation for fun experiments.
 
